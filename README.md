@@ -1,6 +1,5 @@
 # Hi 👋, I'm Sharath Kumar A G
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=4mh23cs138-maker&label=Profile views&color=0e75b6&style=flat" alt="4mh23cs138-maker" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=4mh23cs138-maker" alt="4mh23cs138-maker" /></a> </p>
 
